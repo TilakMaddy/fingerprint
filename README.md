@@ -1,7 +1,13 @@
-# Tauri + SvelteKit + TypeScript
+# Fingerprint
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+### On-chain chat application with verifiable end to end encryption
 
-## Recommended IDE Setup
+* Cross platform GUI Application 
+* Tech Stack: Alloy + Tauri + Svelte Kit
+* Chat.sol can be deployed on any EVM compatible chain
+* Diffie Hellman's encryption algorithm for exchaing keys for encrypted data in insecure public channels
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+
+#### PS: This was a year end hackathon project. Code quality is crap. 
+
+If you are looking to improve this, PRs are welcome. I would love to turn this into a real product
